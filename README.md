@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, DevOps, Web3**
+- 💬 Ask me about **Web development,Web3 and DSA**
 
 - 📫 How to reach me **tushargahora@gmail.com**
 
